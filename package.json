@@ -1,0 +1,7 @@
+{
+  "name": "root-scripts",
+  "private": true,
+  "scripts": {
+    "dev": "cd project; npm run dev"
+  }
+} 
